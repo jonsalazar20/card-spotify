@@ -14,7 +14,7 @@ I have learned and practiced the next things :
 - Arrow Functions
 
 
-## If you want to how this works just [click Here](https://spoticard.netlify.app/)
+## If you want to see how this works just [click Here](https://spoticard.netlify.app/)
 #
 ## Español 
 
